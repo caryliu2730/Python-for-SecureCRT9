@@ -13,3 +13,7 @@ Python-for-SecureCRT9
 
 # 更新日志
 > 20240410 添加OTP-for-SecureCRT9.py与TXT-progressive-input.py
+
+# 赏杯咖啡
+<img src="http://wangtianlong2730.tpddns.cn:28089/i/2024/04/10/661650df06c9f.png" alt="" width="275">
+
