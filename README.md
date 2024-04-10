@@ -10,3 +10,6 @@ Python-for-SecureCRT9
 
 # TXT-progressive-input
 通过基础的crt函数与定义逻辑循环，实现对Crt单一Session一对一的txt文件的中命令行的自动化的逐行输入
+
+# 更新日志
+> 20240410 添加OTP-for-SecureCRT9.py与TXT-progressive-input.py
